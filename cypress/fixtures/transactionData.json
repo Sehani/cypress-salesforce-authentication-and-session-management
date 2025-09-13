@@ -1,0 +1,14 @@
+{
+  "transactionData": {
+    "OwnerId": "005WU00000BOw4XYAT",
+    "transaction_id__c": "pi_3QuUkDLS3EJLWOAq1JfWbv4t",
+    "status__c": "Pending",
+    "amount__c": 120000,
+    "merchantId__c": "unique",
+    "transactionType__c": "CHARGE",
+    "metaData__c": "dssdsd",
+    "fee__c": 21,
+    "device_id__c": "device_identifier",
+    "transaction_date_time__c": "2025"
+  }
+}
