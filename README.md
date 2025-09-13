@@ -79,5 +79,4 @@ npx cypress run --spec "cypress/e2e/salesforce/transaction-management.cy.js"
 - ✅ Salesforce authentication with session caching
 - ✅ Transaction creation (POST)
 - ✅ Transaction retrieval (GET by ID)
-- ✅ Transaction querying (SOQL with filters)
 - ✅ Data validation and integrity checks
