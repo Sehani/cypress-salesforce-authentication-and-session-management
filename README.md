@@ -33,11 +33,6 @@ cypress/
 - Retrieves a Transaction__c record by ID
 - Returns complete record data
 
-### `cy.querySalesforceTransactions(whereClause)`
-- Queries Transaction__c records with optional filters
-- Supports SOQL WHERE clauses
-- Returns array of matching records
-
 ## Test Data
 
 Transaction data is stored in `cypress/fixtures/transactionData.json` for easy maintenance and reusability.
